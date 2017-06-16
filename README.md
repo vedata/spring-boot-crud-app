@@ -10,7 +10,7 @@ This is a spring-boot crud appliation with jdbc authentication
 
 ## Application architecture
 
-
+![screenshot from 2017-06-16 17-57-11](https://user-images.githubusercontent.com/15045220/27234448-63b94176-52bd-11e7-8a3c-9b5508a9ffb8.png)
 
 
 
