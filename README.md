@@ -20,8 +20,15 @@ This is a spring-boot crud appliation with jdbc authentication
 ```
     1. Create postgres table 
         
-       $ ./createdb.sh 
+       $ Execute the query (createdb.txt) to create customer tables
+       
+    2. Configure database 
 
-    2.  Run application 
+       $ Configure data properties in application.properties
+         spring.datasource.url=jdbc:postgresql://localhost/testdb
+         spring.datasource.username=postgres_username
+         spring.datasource.password=123
+         
+    2. Run application
 
       $ java -jar ./spring-boot-crud-app/mtc-api/target/mtc-api-0.0.1-SNAPSHOT.jar
