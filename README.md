@@ -20,7 +20,7 @@ This is a spring-boot crud appliation with jdbc authentication
 ```
     1. Create postgres table 
         
-       $ Execute the query (createdb.txt) to create customer tables
+       $ Execute the query (createdb.txt) to create custom tables
        
     2. Configure database 
 
